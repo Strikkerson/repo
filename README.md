@@ -1,8 +1,8 @@
 # repo
 
 ## Esquema e Tabelas Criadas
+![image](https://github.com/user-attachments/assets/ae0937b7-4a15-4531-bea0-ea981e97739f)
 
-![image](https://github.com/user-attachments/assets/01b5fbcc-1490-437f-a0d7-c7c9f46ad6ce)
 
 ## Popular tabelas
 ### Authors
